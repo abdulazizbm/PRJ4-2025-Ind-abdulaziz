@@ -12,7 +12,7 @@ We focus on brainstorming ideas for our project. We discuss different types of a
 We also make important technical decisions. We suggest using Kotlin and Android Studio because they are suitable for Android development and already familiar to our team. This helps us set up the technical.
 
 #### Evidence 
-[Project idea](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/main/ARTEFACTS/ANALYSIS/Project_idea.md)
+[Project idea](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/Project_idea.md)
 
 ### Week 2: Analysis & Concept Refinement
   
@@ -37,7 +37,7 @@ I describe how users interact with the system in a clear and structured way. Thi
 
  #### Evidence :
  
-[Use Cases](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/main/ARTEFACTS/ANALYSIS/UseCases.md)
+[Use Cases](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/UseCases.md)
 
 
 
@@ -68,8 +68,8 @@ I create two detailed personas to guide the app’s user experience. I define th
 These personas are based on assumptions about student behavior and inspired by apps like Vinted and StockX. Creating them helps me visualize user journeys and make better design decisions.
 
    #### Evidence
-   - [Molham Seller Persona ](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/Seller%20persona.jpg)
-   - [Ahmed Buyer Persona ](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/Buyer%20persona.png)
+   - [Molham Seller Persona ](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/Seller%20persona.jpg)
+   - [Ahmed Buyer Persona ](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/Buyer%20persona.png)
    
    ### Week 6: Wireframes
    I create basic wireframes by hand to plan the design of the core screens, including the homepage, chat screen, item page, and the selling form. These sketches help me quickly test       ر  layout ideas before designing them digitally.   
@@ -82,8 +82,8 @@ These personas are based on assumptions about student behavior and inspired by a
    I start by designing an Entity-Relationship Diagram (ERD) that shows how the main parts of the system are connected. The ERD includes all the essential entities for a marketplace app,      including users, products, and their relationships. After completing the ERD, I write a full SQL script to match the design. This script reflects the same structure and prepares the        backend for future development.      
    #### evidence
 
-   - [ERD](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/main/ARTEFACTS/ANALYSIS/ERD.svg)
-   - [SQL script](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/main/ARTEFACTS/ANALYSIS/SQL_Script)
+   - [ERD](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/ERD.svg)
+   - [SQL script](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/SQL_Script)
 
    ### Week 8: UI template
    I design the user interface  of the app using Figma. I focus on the core pages and ensure the app is clean, fast, and clear for student users. This aligns with the needs of the personas.
@@ -101,13 +101,13 @@ These personas are based on assumptions about student behavior and inspired by a
 
 
       #### Evidence:
-      [homepage](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/devBranch/ARTEFACTS/ANALYSIS/Template/HomeTemplate.jpeg)
+      [homepage](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/HomeTemplate.jpeg)
      
-     [product detail](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/devBranch/ARTEFACTS/ANALYSIS/Template/DetailTemplate.jpeg)
+     [product detail](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/DetailTemplate.jpeg)
      
-     [uploading a new product](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/devBranch/ARTEFACTS/ANALYSIS/Template/SellTemplate.jpeg)
+     [uploading a new product](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/SellTemplate.jpeg)
      
-     [ order screen](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/devBranch/ARTEFACTS/ANALYSIS/Template/OrderTemplate.jpeg)
+     [ order screen](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/OrderTemplate.jpeg)
 
      [figma](https://www.figma.com/design/Kncts2op1DGfMx1Nvy8beI/Resale-Ecommerce-App?node-id=0-1&p=f&t=REICoPiQ3a3ENy0f-0)
      
@@ -138,10 +138,10 @@ These personas are based on assumptions about student behavior and inspired by a
      I  started collecting feedback from users. One of my friends tested the app and shared some helpful input. He said the plus (+) icon on the product card wasn’t clear, and he didn’t like the heart icon in the bottom navigation bar it didn’t make sense to him. He also mentioned that it would be useful to send images in chat, especially if users want to share more details about the item. He also want to see seller name.
 
      ####  Evidence:
-     - [the feedback](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/feedback.png)
+     - [the feedback](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/feedback.png)
      - [Screenshot of the homepage before the feedback](/image/Screenshot%202025-06-05%20121640.png)
-     - [Screenshot of the homepage afte the feedback](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/Screenshot%202025-06-11%20133444.png)
-     - [chatscreen with image send](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/Screenshot%202025-06-11%20133559.png)
+     - [Screenshot of the homepage afte the feedback](/image/Screenshot%202025-06-11%20133444.png)
+     - [chatscreen with image send](image/Screenshot%202025-06-11%20133559.png)
      - [commit](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/commit/aa3b1e4a1ea9f68263b99de4865d206c59cdcaf7#diff-ff270f425d0d8a160792b83aa6884a95e09e665196187497c1a33df31d98305f)
        
 
@@ -176,9 +176,9 @@ These personas are based on assumptions about student behavior and inspired by a
 
 
      #### Evidence
-     [GitHub board](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/GitHub%20board.png)
+     [GitHub board](/image/GitHub%20board.png)
      
-     [Discord Meeting](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/discord%20meeting.png)
+     [Discord Meeting](/image/discord%20meeting.png)
 
 
      ### Investigative Ability ( Research)
@@ -188,9 +188,9 @@ These personas are based on assumptions about student behavior and inspired by a
 
      #### Evidence
      
-      [Week 2](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/edit/main/PDP.md#week-2-analysis--concept-refinement)
+      [Week 2](/PDP.md#week-2-analysis--concept-refinement)
      
-      [Week 4](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/edit/main/PDP.md#week-4-understanding-user-needs) 
+      [Week 4](/PDP.md#week-4-understanding-user-needs) 
      ### Personal Leadership (Personal Profiling)
 
      I take responsibility within the team by sharing the initial idea for the app and showing how it solves specific problems for students. Throughout the project, I stay involved in every phase: from concept planning to UI design and coding. I take initiative during meetings, often guiding the team on what to focus on next. I also reflect on my own role and skills, and I try to improve by learning more about design, user experience, and Kotlin. This attitude helps me grow as a team member and makes my contribution more valuable over time.
@@ -198,7 +198,7 @@ These personas are based on assumptions about student behavior and inspired by a
 
      #### Evidence
      
-     [Project idea](https://github.com/FontysVenlo/PRJ4-2025-prj4-2025-s05/blob/main/ARTEFACTS/ANALYSIS/Project_idea.md)
+     [Project idea](https://github.com/abdulazizbm/PRJ4-2025-Ind-abdulaziz/blob/main/image/Project_idea.md)
 
 
      ### Targeted Interaction (Collaboration)
@@ -206,13 +206,13 @@ These personas are based on assumptions about student behavior and inspired by a
 
 
      #### Evidence
-     [Coach message](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/WhatsApp%20Image%202025-06-11%20at%206.00.09%20PM.jpeg)
+     [Coach message](/image/WhatsApp%20Image%202025-06-11%20at%206.00.09%20PM.jpeg)
      
-     [Group message](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/WhatsApp%20Image%202025-06-11%20at%206.00.08%20PM.jpeg)
+     [Group message](/image/WhatsApp%20Image%202025-06-11%20at%206.00.08%20PM.jpeg)
 
-     [Feedback from my teammate Victor](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/Victor_Feedback.jpg)
+     [Feedback from my teammate Victor](/image/Victor_Feedback.jpg)
 
-     [Feedback from my teammate Joushia](https://github.com/FontysVenlo/PRJ4-2025-Ind-abdulazizbm/blob/main/image/Jousha_feedback.jpg)
+     [Feedback from my teammate Joushia](/image/Jousha_feedback.jpg)
 
 
      ### Reflection 
