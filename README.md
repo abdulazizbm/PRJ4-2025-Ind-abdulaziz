@@ -108,7 +108,7 @@ A full development process (PDP) is included in this repository.
 It contains weekly progress, research, wireframes, user feedback and reflections.  
 This document shows the complete workflow behind the project.
 
-See: **PDP.md**
+See: [PDP](PDP.md)
 
 ---
 
